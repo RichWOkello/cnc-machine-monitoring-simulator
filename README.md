@@ -98,4 +98,4 @@ These are illustrative thresholds for the demo only. Real thresholds depend on m
 
 ## License
 
-MIT — see `LICENSE` if you choose to add one.
+MIT 
